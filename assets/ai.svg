@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320">
+<defs><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.25" fill="#e1846b"/></pattern></defs>
+<path fill="#edaa95" d="M0 0h600v320H0z"/><path fill="url(#dots)" d="M0 0h600v320H0z"/>
+<g fill="none" stroke="#3a2924" stroke-width="1.5"><path d="M33 32h534v256H33zM300 33v254M34 160h532" opacity=".44"/><circle cx="300" cy="160" r="109" stroke-dasharray="3 6"/><circle cx="300" cy="160" r="79"/></g>
+<path d="M300 54c10 70 35 96 106 106-71 10-96 36-106 106-10-70-36-96-106-106 70-10 96-36 106-106z" fill="#3a2924"/>
+<circle cx="300" cy="160" r="10" fill="#f8cabb"/>
+<path d="M436 70v44m-22-22h44M160 210v34m-17-17h34" stroke="#3a2924" stroke-width="2"/>
+<text x="52" y="58" fill="#3a2924" font-family="monospace" font-weight="bold" font-size="13" letter-spacing="2">AI / 01</text>
+</svg>

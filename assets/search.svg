@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320">
+<defs><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#b9a485"/></pattern></defs>
+<path fill="#e4d2b2" d="M0 0h600v320H0z"/><path fill="url(#dots)" d="M0 0h600v320H0z"/>
+<path d="M33 32h534v256H33z" fill="none" stroke="#6c5a3f" opacity=".45"/>
+<g fill="#f3e6cb" stroke="#52452f" stroke-width="2"><rect x="123" y="87" width="354" height="43" rx="4"/><rect x="123" y="141" width="354" height="43" rx="4"/><rect x="123" y="195" width="354" height="43" rx="4"/></g>
+<g stroke="#7f6e53" stroke-width="4" stroke-linecap="round"><path d="M148 108h145M148 162h145M148 216h145" opacity=".6"/><path d="M313 108h36M313 162h36M313 216h36" opacity=".33"/></g>
+<circle cx="411" cy="150" r="49" fill="#e5d2b1" fill-opacity=".8" stroke="#403728" stroke-width="9"/><path d="m446 184 50 50" stroke="#403728" stroke-width="12" stroke-linecap="round"/>
+<path d="M393 149h36m-18-18v36" stroke="#a43c2d" stroke-width="2"/>
+<text x="52" y="58" fill="#51442e" font-family="monospace" font-weight="bold" font-size="13" letter-spacing="2">MEDIA / 02</text>
+</svg>

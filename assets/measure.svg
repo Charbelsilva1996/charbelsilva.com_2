@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320">
+<defs><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#889184"/></pattern></defs>
+<path fill="#adb6a7" d="M0 0h600v320H0z"/><path fill="url(#dots)" d="M0 0h600v320H0z"/>
+<path d="M33 32h534v256H33z" fill="none" stroke="#414a3e" opacity=".55"/>
+<g fill="none" stroke="#4d5849" stroke-width="1.5"><path d="M128 78v165h354"/><path d="M128 106h354m-354 45h354m-354 45h354" opacity=".55" stroke-dasharray="4 6"/></g>
+<g fill="#354134"><path d="M166 197h45v46h-45zM239 170h45v73h-45zM312 142h45v101h-45zM385 93h45v150h-45z"/></g>
+<path d="m169 166 93-28 73-27 77-53" fill="none" stroke="#f5edd6" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="412" cy="58" r="6" fill="#f5edd6"/>
+<text x="52" y="58" fill="#303a2f" font-family="monospace" font-weight="bold" font-size="13" letter-spacing="2">DATA / 03</text>
+</svg>

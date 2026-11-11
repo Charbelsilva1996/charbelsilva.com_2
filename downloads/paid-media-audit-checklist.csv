@@ -1,0 +1,11 @@
+Area,Check,Evidence to review,Status,Owner,Next step
+Business goal,Define the business result and decision threshold,Campaign brief and sales goals,,,
+Measurement,Check that each conversion fires once,Tag diagnostics and a submitted test lead,,,
+Measurement,Reconcile leads with CRM stages,Ad reporting and CRM lead cohort,,,
+Google Search,Group search terms by buyer intent,Search terms report and landing page mapping,,,
+Google Search,Check negatives against core offers,Campaign and shared negatives alongside positive keyword list,,,
+Paid social,Review creative and landing page alignment,Ads by message and destination,,,
+Targeting,Validate geography and language for each offer,Campaign settings and lead location,,,
+Budget,Compare spend and qualified outcomes,Spend and CRM lead cohort for the same period,,,
+AI experiment,Write one hypothesis and an early stopping rule,Experiment design and pre-test baseline,,,
+Follow-up,Record approved changes and review date,Change log and review calendar,,,
